@@ -8,6 +8,7 @@ public class RestApiImageUploadApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestApiImageUploadApplication.class, args);
+		System.out.println("Application Started................");
 	}
 
 }
